@@ -7,3 +7,6 @@ beego框架
 UEditor设置conf/config.json和static/ueditor/ueditor.config.js——beego路由设置route——控制器中的ueditor.go
 
 本地调试地址：http://127.0.0.1/category/add
+
+
+https://github.com/jimmykuu/Go-UEditor一直未更新
