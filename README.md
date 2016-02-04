@@ -1,6 +1,6 @@
 # UEditor-golang
 
-基于golang go语言（beego框架）下的UEditor后台
+基于golang go语言（beego框架）下的UEditor后端
 
 beego框架
 
