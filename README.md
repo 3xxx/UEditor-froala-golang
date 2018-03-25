@@ -1,6 +1,8 @@
 # UEditor-golang
 
-基于golang go语言（beego框架）下的UEditor服务端
+基于golang go语言（beego框架）下的UEditor服务端，这个是从EngineerCMS项目中分离出来的，具体可参加该项目https://github.com/3xxx/engineercms。
+
+具体应用请参见http://112.74.42.44:8086/
 
 beego框架
 
