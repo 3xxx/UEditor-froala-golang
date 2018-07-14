@@ -12,6 +12,9 @@ froala相对于ueditor，配置简单到了极点，哪里像ueditor那样，还
 
 froala结合golang的使用见[engineercms](https://github.com/3xxx/EngineerCMS/blob/master/controllers/froala.go)
 
+![snap13](https://user-images.githubusercontent.com/10678867/42724968-c93a6b84-87ae-11e8-8e79-c95cdf54b663.png)
+![snap6](https://user-images.githubusercontent.com/10678867/42724969-ceb3134a-87ae-11e8-9656-44e9749fe5fa.png)
+
 [beego框架](https://github.com/astaxie/beego)
 
 UEditor设置conf/config.json和static/ueditor/ueditor.config.js——beego路由设置route——控制器controllers中的ueditor.go
